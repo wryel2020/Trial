@@ -1,368 +1,134 @@
 #EXTM3U
  
-#EXTINF:-1,|IN|Tv HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1217.m3u8
-#EXTINF:-1,|IN|Flix HD.
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1218.m3u8
-#EXTINF:-1,|IN|Prive HD.
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1219.m3u8
-#EXTINF:-1,|IN|Prive HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1220.m3u8
-#EXTINF:-1,|IN|Pictures HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1221.m3u8
-#EXTINF:-1,|IN|Pictures HD.
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1222.m3u8
-#EXTINF:-1,|IN|Flix HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1223.m3u8
-#EXTINF:-1,|IN|1
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1224.m3u8
-#EXTINF:-1,|IN|4tv News
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1225.m3u8
-#EXTINF:-1,|IN|8xm HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1226.m3u8
-#EXTINF:-1,|IN|9xm
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1227.m3u8
-#EXTINF:-1,|IN|AAJ Katez
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1228.m3u8
-#EXTINF:-1,|IN|AAJ News
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1229.m3u8
-#EXTINF:-1,|IN|Animal Planet HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1230.m3u8
-#EXTINF:-1,|IN|Animal Planet World HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1231.m3u8
-#EXTINF:-1,|IN|Asianet HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1232.m3u8
-#EXTINF:-1,|IN|B4u Movies
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1233.m3u8
-#EXTINF:-1,|IN|B4u Music
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1234.m3u8
-#EXTINF:-1,|IN|Baby Tv HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1235.m3u8
-#EXTINF:-1,|IN|Bhojpori Cinema
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1236.m3u8
-#EXTINF:-1,|IN|Big Magic
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1237.m3u8
-#EXTINF:-1,|IN|Cartoon Network
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1238.m3u8
-#EXTINF:-1,|IN|Cinemachi Kids
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1239.m3u8
-#EXTINF:-1,|IN|Cineplex HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1240.m3u8
-#EXTINF:-1,|IN|Colors Bangla HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1241.m3u8
-#EXTINF:-1,|IN|Colors HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1242.m3u8
-#EXTINF:-1,|IN|Colors SD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1243.m3u8
-#EXTINF:-1,|IN|Colors Infinity HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1244.m3u8
-#EXTINF:-1,|IN|Colors Kannada HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1245.m3u8
-#EXTINF:-1,|IN|Colors Tamil HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1246.m3u8
-#EXTINF:-1,|IN|DD India HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1247.m3u8
-#EXTINF:-1,|IN|DD News HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1248.m3u8
-#EXTINF:-1,|IN|DD Urdu
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1249.m3u8
-#EXTINF:-1,|IN|DD Sports
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1250.m3u8
-#EXTINF:-1,|IN|DD Punjabi
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1251.m3u8
-#EXTINF:-1,|IN|DD Kisan
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1252.m3u8
-#EXTINF:-1,|IN|DD Girner
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1253.m3u8
-#EXTINF:-1,|IN|DD Chandana
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1254.m3u8
-#EXTINF:-1,|IN|DD Bharat
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1255.m3u8
-#EXTINF:-1,|IN|DD Bangla
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1256.m3u8
-#EXTINF:-1,|IN|DD Arun
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1257.m3u8
-#EXTINF:-1,|IN|Dangal
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1258.m3u8
-#EXTINF:-1,|IN|Discovery HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1259.m3u8
-#EXTINF:-1,|IN|Discovery Kids HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1260.m3u8
-#EXTINF:-1,|IN|Discovery Kids
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1261.m3u8
-#EXTINF:-1,|IN|Discovery Science HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1262.m3u8
-#EXTINF:-1,|IN|Discovery Turbo
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1263.m3u8
-#EXTINF:-1,|IN|Disney HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1264.m3u8
-#EXTINF:-1,|IN|Epic HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1265.m3u8
-#EXTINF:-1,|IN|Espn
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1266.m3u8
-#EXTINF:-1,|IN|Etv Uk
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1267.m3u8
-#EXTINF:-1,|IN|Express Entertainment
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1268.m3u8
-#EXTINF:-1,|IN|Express News HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1269.m3u8
-#EXTINF:-1,|IN|Fox Life HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1270.m3u8
-#EXTINF:-1,|IN|Hbo HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1271.m3u8
-#EXTINF:-1,|IN|History HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1272.m3u8
-#EXTINF:-1,|IN|Ifilm HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1273.m3u8
-#EXTINF:-1,|IN|India News
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1274.m3u8
-#EXTINF:-1,|IN|Jalwa
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1275.m3u8
-#EXTINF:-1,|IN|Kashish
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1276.m3u8
-#EXTINF:-1,|IN|Ktv HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1277.m3u8
-#EXTINF:-1,|IN|Lok Sabha
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1278.m3u8
-#EXTINF:-1,|IN|Mahamovies
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1279.m3u8
-#EXTINF:-1,|IN|Masti
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1280.m3u8
-#EXTINF:-1,|IN|Nat Geo Wild
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1281.m3u8
-#EXTINF:-1,|IN|National Geographic
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1282.m3u8
-#EXTINF:-1,|IN|News Rajhistan
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1283.m3u8
-#EXTINF:-1,|IN|Nick HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1284.m3u8
-#EXTINF:-1,|IN|Paigham Pashtoo
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1285.m3u8
-#EXTINF:-1,|IN|Paigham Urdu
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1286.m3u8
-#EXTINF:-1,|IN|Peace Tv English
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1287.m3u8
-#EXTINF:-1,|IN|Peace Tv HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1288.m3u8
-#EXTINF:-1,|IN|Pix HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1289.m3u8
-#EXTINF:-1,|IN|Ptc Chak De
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1290.m3u8
-#EXTINF:-1,|IN|Ptc News
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1291.m3u8
-#EXTINF:-1,|IN|Ptc Punjabi
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1292.m3u8
-#EXTINF:-1,|IN|Public News
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1293.m3u8
-#EXTINF:-1,|IN|Rajya Sabha
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1294.m3u8
-#EXTINF:-1,|IN|Republic News
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1295.m3u8
-#EXTINF:-1,|IN|Sky Star Movies
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1296.m3u8
-#EXTINF:-1,|IN|Sony Yay
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1297.m3u8
-#EXTINF:-1,|IN|Sony Six HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1298.m3u8
-#EXTINF:-1,|IN|Sony Sab HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1299.m3u8
-#EXTINF:-1,|IN|Sony Max HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1300.m3u8
-#EXTINF:-1,|IN|Sony HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1301.m3u8
-#EXTINF:-1,|IN|Star Bharat
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1302.m3u8
-#EXTINF:-1,|IN|Star Gold HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1303.m3u8
-#EXTINF:-1,|IN|Star Gold Select HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1304.m3u8
-#EXTINF:-1,|IN|Star Maa HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1305.m3u8
-#EXTINF:-1,|IN|Star Movies HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1306.m3u8
-#EXTINF:-1,|IN|Star Plus HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1307.m3u8
-#EXTINF:-1,|IN|Star Sports Hindi HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1308.m3u8
-#EXTINF:-1,|IN|Star Sports Select 1 HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1309.m3u8
-#EXTINF:-1,|IN|Star Sports Select 2 HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1310.m3u8
-#EXTINF:-1,|IN|Star Sprots 1 HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1311.m3u8
-#EXTINF:-1,|IN|Star Vijay HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1312.m3u8
-#EXTINF:-1,|IN|Star Vijay Super
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1313.m3u8
-#EXTINF:-1,|IN|Star World HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1314.m3u8
-#EXTINF:-1,|IN|Stars Ports 2 HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1315.m3u8
-#EXTINF:-1,|IN|Sun Tv HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1316.m3u8
-#EXTINF:-1,|IN|Surya Samachar
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1317.m3u8
-#EXTINF:-1,|IN|Ten 1 HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1318.m3u8
-#EXTINF:-1,|IN|Ten 2 HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1319.m3u8
-#EXTINF:-1,|IN|Ten Sports 3 HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1320.m3u8
-#EXTINF:-1,|IN|Ten Sports HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1321.m3u8
-#EXTINF:-1,|IN|Ten Sports
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1322.m3u8
-#EXTINF:-1,|IN|Tlc World
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1323.m3u8
-#EXTINF:-1,|IN|Travel Xp HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1324.m3u8
-#EXTINF:-1,|IN|Utv Action
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1325.m3u8
-#EXTINF:-1,|IN|Zee Bangla HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1326.m3u8
-#EXTINF:-1,|IN|Zee Cafe
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1327.m3u8
-#EXTINF:-1,|IN|Zee Cinema HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1328.m3u8
-#EXTINF:-1,|IN|Zee Hindustan
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1329.m3u8
-#EXTINF:-1,|IN|Zee News
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1330.m3u8
-#EXTINF:-1,|IN|Zee Talkies
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1331.m3u8
-#EXTINF:-1,|IN|Zee Tamil HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1332.m3u8
-#EXTINF:-1,|IN|Zee Tv HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1333.m3u8
-#EXTINF:-1,|IN|Zee Tv HD.
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1334.m3u8
-#EXTINF:-1,|IN|Zee Action HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1335.m3u8
-#EXTINF:-1,|IN|Zee Anmol HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1336.m3u8
-#EXTINF:-1,|IN|Zee Cinema HD.
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1337.m3u8
-#EXTINF:-1,|IN|Zee Cinema USD HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1338.m3u8
-#EXTINF:-1,|IN|Zee Classic HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1339.m3u8
-#EXTINF:-1,|IN|Zee Magic HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1340.m3u8
-#EXTINF:-1,|IN|Zee Punjabi HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1341.m3u8
-#EXTINF:-1,|IN|Zee Salaam HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1342.m3u8
-#EXTINF:-1,|IN|Zee Yuva HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1343.m3u8
-#EXTINF:-1,|IN|Zee kalinga HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1344.m3u8
-#EXTINF:-1,|IN|Zee kannada HD
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1345.m3u8
-#EXTINF:-1,|IN|Zing
-http://185.180.221.113:25461/live/dreamtv2/pPdzswL6DY/1346.m3u8
-
-
-
-#EXTINF:-1,BD: TARA MUZIK By www.iptv4free.com
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/5093.ts
-#EXTINF:-1,BD: Sony 8
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/4735.ts
-#EXTINF:-1,BD: SOMOY NEWS TV
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/5104.ts
-#EXTINF:-1,BD: RUPOSHI BANGLA
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/4734.ts
-#EXTINF:-1,BD: RTV By www.iptv4free.com
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/5092.ts
-#EXTINF:-1,BD: NTV EU
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/5097.ts
-#EXTINF:-1,BD: NTV
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/5098.ts
-#EXTINF:-1,BD: DEEPTO HD
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/5103.ts
-#EXTINF:-1,BD: MUSIC BANGLA
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/5099.ts
-#EXTINF:-1,BD: MOVIE BANGLA
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/5100.ts
-#EXTINF:-1,BD: JAMUNA TV By www.iptv4free.com
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/5091.ts
-#EXTINF:-1,BD: EKATTOR TV
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/5096.ts
-#EXTINF:-1,BD: DOOM MUSIC
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/4736.ts
-#EXTINF:-1,BD: DESHE BIDESHE TV
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/5094.ts
-#EXTINF:-1,BD: DESH TV
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/5095.ts
-#EXTINF:-1,BD: CHANNEL S
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/5102.ts
-#EXTINF:-1,BD: BOISHAKHI TV
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/4739.ts
-#EXTINF:-1,BD: ATN MUSIC TV
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/5101.ts
-#EXTINF:-1,BD: ATN BANGLA
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/4737.ts
-#EXTINF:-1,BD: 24 CHANNEL By www.iptv4free.com
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/4738.ts
-#EXTINF:-1,Bangala: RTV
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/2384.ts
-#EXTINF:-1,Bangala: Maasranga TV
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/2385.ts
-#EXTINF:-1,Bangala: ETV
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/2383.ts
-#EXTINF:-1,Bangala: Channel 24
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/2381.ts
-#EXTINF:-1,Bangala: Bangala Vision
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/2386.ts
-#EXTINF:-1,Bangala: ATN News Bangala
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/2387.ts
-#EXTINF:-1,Bangala: Asian TV bangala
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/2388.ts
-#EXTINF:-1,Bangala ABP Ananda By www.iptv4free.com
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/2376.ts
-#EXTINF:-1,Banagala :Ekattor TV
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/2382.ts
-#EXTINF:-1,Bangla:  ATN News
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/933.ts
-#EXTINF:-1,Bangla: Channel i
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/929.ts
-#EXTINF:-1,Bangla: BTV World
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/931.ts
-#EXTINF:-1,Bangla: Asian TV
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/939.ts
-#EXTINF:-1,Bangla: SA TV By www.iptv4free.com
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/938.ts
-#EXTINF:-1,Bangla: Independent TV
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/937.ts
-#EXTINF:-1,Bangla: Sangsad Bangladesh
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/936.ts
-#EXTINF:-1,Bangla:  MY TV
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/934.ts
-#EXTINF:-1,Bangla: Peace TV Bangla By www.iptv4free.com
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/935.ts
-#EXTINF:-1,Bangla: RTV Bangla
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/930.ts
-#EXTINF:-1,Bangla: ATN Bangla
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/932.ts
-#EXTINF:-1,Bengali: Rupashi Bangla By www.iptv4free.com
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/882.ts
-#EXTINF:-1,Bengali: Tara Muzik
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/876.ts
-#EXTINF:-1,Bengali: ABP Ananda
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/877.ts
-#EXTINF:-1,Bengali: Colors Bangla By www.iptv4free.com
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/879.ts
-#EXTINF:-1,Bengali: Star Jalsha By www.iptv4free.com
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/880.ts
-#EXTINF:-1,Bengali: Zee Bangla
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/881.ts
-#EXTINF:-1,Bengali: 24 Ghanta
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/884.ts
-#EXTINF:-1,Bengali: Zee Bangla US
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/886.ts
-#EXTINF:-1,Bengali: Star Jalsha US
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/887.ts
-#EXTINF:-1,Bengali: Sangeet Bangla By www.iptv4free.com
-http://192.99.149.20:8080/live/jdillon845/Sxrg9elTS8/888.ts
-
+#EXTINF:-1,colorsInfintyHD-Rs9
+http://103.61.73.220:8000/play/a05h
+#EXTINF:-1,colorsKannadHD-Rs19
+http://103.61.73.220:8000/play/a06r
+#EXTINF:-1,hungama tv-Rs 1
+http://103.61.73.220:8000/play/a05u
+#EXTINF:-1,nick - Rs 6
+http://103.61.73.220:8000/play/a05w
+#EXTINF:-1,nick HD+- Rs 10
+http://103.61.73.220:8000/play/a05i
+#EXTINF:-1,ramdhenu - Free
+http://103.61.73.220:8000/play/a0dl
+#EXTINF:-1,Star Gold Romance- Rs 2
+http://103.61.73.220:8000/play/a05n
+#EXTINF:-1,Star Gold Thrills- Rs 2
+http://103.61.73.220:8000/play/a05m
+#EXTINF:-1,Star Maa Gold-Rs7
+http://103.61.73.220:8000/play/a06y
+#EXTINF:-1,Star Maa HD - Rs 21
+http://103.61.73.220:8000/play/a06t
+#EXTINF:-1,Star Maa MovHD-Rs 19
+http://103.61.73.220:8000/play/a067
+#EXTINF:-1,Star Maa Music-Rs4
+http://103.61.73.220:8000/play/a0ed
+#EXTINF:-1,Star Plus HD -Rs 19
+http://103.61.73.220:8000/play/a04t
+#EXTINF:-1,Star Pravah HD-Rs19
+http://103.61.73.220:8000/play/a074
+#EXTINF:-1,Star Sports 3-SD@
+http://103.61.73.220:8000/play/a0gp
+#EXTINF:-1,Star Utsav-50p
+http://103.61.73.220:8000/play/a051
+#EXTINF:-1,StarGold SelHD-Rs8
+http://103.61.73.220:8000/play/a05a
+#EXTINF:-1,StarMovieSelHD-Rs19
+http://103.61.73.220:8000/play/a04d
+#EXTINF:-1,StarS1 HindiHD-Rs19
+http://103.61.73.220:8000/play/a041
+#EXTINF:-1,StarSportSL1HD-Rs19
+http://103.61.73.220:8000/play/a05e
+#EXTINF:-1,StarSportSL2HD-Rs10
+http://103.61.73.220:8000/play/a05f
+#EXTINF:-1,StarSports1 HD-Rs19
+http://103.61.73.220:8000/play/a0hm
+#EXTINF:-1,StarSports2 HD-Rs19
+http://103.61.73.220:8000/play/a03o
+#EXTINF:-1,StarSuvarnaHD-Rs19
+http://103.61.73.220:8000/play/a0df
+#EXTINF:-1,Sun Bangla@
+http://103.61.73.220:8000/play/a0gc
+#EXTINF:-1,TARANG MUSIC-Rs 2
+http://103.61.73.220:8000/play/a0er
+#EXTINF:-1,TARANG- Rs 14
+http://103.61.73.220:8000/play/a0eq
+#EXTINF:-1,TLC -SD@
+http://103.61.73.220:8000/play/a0h7
+#EXTINF:-1,TLC HD- Rs3
+http://103.61.73.220:8000/play/a049
+#EXTINF:-1,Telugu Active- Rs 45
+http://103.61.73.220:8000/play/a0ba
+#EXTINF:-1,ThrillerActive@
+http://103.61.73.220:8000/play/a0g3
+#EXTINF:-1,Travelxp- Rs 3
+http://103.61.73.220:8000/play/a09f
+#EXTINF:-1,UDAYA COMEDY-Rs 6
+http://103.61.73.220:8000/play/a0e4
+#EXTINF:-1,UDAYA HD- Rs 19
+http://103.61.73.220:8000/play/a07z
+#EXTINF:-1,UDAYA MOVIES-Rs19
+http://103.61.73.220:8000/play/a0dz
+#EXTINF:-1,UDAYA MUSIC-Rs 5
+http://103.61.73.220:8000/play/a0e1
+#EXTINF:-1,Udaya TV- Rs 19
+http://103.61.73.220:8000/play/a0dy
+#EXTINF:-1,VIJAY HD- Rs 19
+http://103.61.73.220:8000/play/a06o
+#EXTINF:-1,ZEE ACTION-10p
+http://103.61.73.220:8000/play/a0el
+#EXTINF:-1,ZEE ANMOL-10p
+http://103.61.73.220:8000/play/a054
+#EXTINF:-1,ZEE BANGLA HD-Rs 19
+http://103.61.73.220:8000/play/a06m
+#EXTINF:-1,ZEE BANGLA@
+http://103.61.73.220:8000/play/a0gk
+#EXTINF:-1,ZEE BOLLYWOOD-Rs3
+http://103.61.73.220:8000/play/a05p
+#EXTINF:-1,ZEE CINEMA HD-Rs 19
+http://103.61.73.220:8000/play/a055
+#EXTINF:-1,ZEE Cafe HD - Rs10
+http://103.61.73.220:8000/play/a04a
+#EXTINF:-1,ZEE CinemaluHD@
+http://103.61.73.220:8000/play/a0hj
+#EXTINF:-1,ZEE KANNADA-Rs19
+http://103.61.73.220:8000/play/a0e0
+#EXTINF:-1,ZEE KERALAM HD@
+http://103.61.73.220:8000/play/a0hk
+#EXTINF:-1,ZEE Kannada HD@
+http://103.61.73.220:8000/play/a0g9
+#EXTINF:-1,ZEE MARATHI HD-Rs 19
+http://103.61.73.220:8000/play/a06n
+#EXTINF:-1,ZEE TALKIES HD-Rs 19 
+http://103.61.73.220:8000/play/a06l
+#EXTINF:-1,ZEE TAMIL HD - Rs 19
+http://103.61.73.220:8000/play/a06q
+#EXTINF:-1,ZEE TELUGU HD@
+http://103.61.73.220:8000/play/a0hi
+#EXTINF:-1,ZEE TELUGU-Rs 19
+http://103.61.73.220:8000/play/a0eg
+#EXTINF:-1,ZEE TV HD-Rs 19
+http://103.61.73.220:8000/play/a04u
+#EXTINF:-1,Zindagi Active- Rs 66
+http://103.61.73.220:8000/play/a0bb
+#EXTINF:-1,Zoom - 50p
+http://103.61.73.220:8000/play/a065
+#EXTINF:-1,bindass - 10p
+http://103.61.73.220:8000/play/a050
+#EXTINF:-1,colorMarathiHD-Rs17
+http://103.61.73.220:8000/play/a073
+#EXTINF:-1,colors Bangla@
+http://103.61.73.220:8000/play/a0ga
+#EXTINF:-1,colors CINEPLEX-Rs3
+http://103.61.73.220:8000/play/a0f5
+#EXTINF:-1,colors Gujarati@
+http://103.61.73.220:8000/play/a0ft
+#EXTINF:-1,colors SUPER-Rs3
+http://103.61.73.220:8000/play/a0bf
+#EXTINF:-1,colors rishtey-Rs1
+http://103.61.73.220:8000/play/a04z
+#EXTINF:-1,colorsBanglaHD-Rs14
+http://103.61.73.220:8000/play/a072
 
 
